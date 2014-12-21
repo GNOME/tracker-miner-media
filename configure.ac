@@ -23,11 +23,19 @@ PKG_PROG_PKG_CONFIG
 
 LT_INIT([])
 
+# i18n support
+GETTEXT_PACKAGE=AC_PACKAGE_NAME
+AC_DEFINE_UNQUOTED(GETTEXT_PACKAGE, ["$GETTEXT_PACKAGE"], [Define to the Gettext package name])
+AC_SUBST(GETTEXT_PACKAGE)
+IT_PROG_INTLTOOL([0.40.0])
+
 #dependencies
 PKG_CHECK_MODULES(DEPS, [tracker-miner-1.0 libgdata >= 0.17])
 
 AC_CONFIG_FILES([
 Makefile
+data/Makefile
 src/Makefile
+po/Makefile.in
 ])
 AC_OUTPUT
