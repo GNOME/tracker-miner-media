@@ -1,0 +1,5 @@
+[Desktop Entry]
+_Name=Media Files
+_Comment=Online data extractor for media files
+DBusName=org.freedesktop.Tracker1.Miner.Media
+DBusPath=/org/freedesktop/Tracker1/Miner/Media
