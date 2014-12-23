@@ -1,0 +1,6 @@
+Initial release of tracker-miner-media 0.1.0
+============================================
+
+* New project
+* Attempt to extract information from movies and series, heuristics
+  are purely based on the filename so far.
