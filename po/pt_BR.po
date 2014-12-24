@@ -1,0 +1,27 @@
+# Brazilian Portuguese translation for tracker-miner-media.
+# Copyright (C) 2014 tracker-miner-media's COPYRIGHT HOLDER
+# This file is distributed under the same license as the tracker-miner-media package.
+# Rafael Ferreira <rafael.f.f1@gmail.com>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tracker-miner-media master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-23 22:29+0000\n"
+"PO-Revision-Date: 2014-12-24 02:59-0300\n"
+"Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
+"Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+
+#: ../data/tracker-miner-media.desktop.in.in.h:1
+msgid "Media Files"
+msgstr "Arquivos de mídia"
+
+#: ../data/tracker-miner-media.desktop.in.in.h:2
+msgid "Online data extractor for media files"
+msgstr "Extrator de dados online para arquivos de mídia"
