@@ -1,0 +1,27 @@
+# Greek translation for tracker-miner-media.
+# Copyright (C) 2015 tracker-miner-media's COPYRIGHT HOLDER
+# This file is distributed under the same license as the tracker-miner-media package.
+# Γιάννης Κουτσούκος <giankoyt@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tracker-miner-media master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-24 12:07+0000\n"
+"PO-Revision-Date: 2015-02-25 00:59+0200\n"
+"Last-Translator: apache <giankoyt@gmail.com>\n"
+"Language-Team: Greek <team@lists.gnome.gr>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: ../data/tracker-miner-media.desktop.in.in.h:1
+msgid "Media Files"
+msgstr "Aρχεία πολυμέσων"
+
+#: ../data/tracker-miner-media.desktop.in.in.h:2
+msgid "Online data extractor for media files"
+msgstr "Διαδικτυακός εξαγωγέας δεδομένων για αρχεία πολυμέσων"
