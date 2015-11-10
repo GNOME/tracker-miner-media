@@ -1,0 +1,26 @@
+# Chinese (China) translation for tracker-miner-media.
+# Copyright (C) 2015 tracker-miner-media's COPYRIGHT HOLDER
+# This file is distributed under the same license as the tracker-miner-media package.
+# JeffBai <jeffbaichina@members.fsf.org>, 2015.
+# Aron Xu <happyaron.xu@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tracker-miner-media master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-12 23:53+0000\n"
+"PO-Revision-Date: 2015-11-10 23:26+0800\n"
+"Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../data/tracker-miner-media.desktop.in.in.h:1
+msgid "Media Files"
+msgstr "媒体文件"
+
+#: ../data/tracker-miner-media.desktop.in.in.h:2
+msgid "Online data extractor for media files"
+msgstr "在线媒体文件数据提取器"
