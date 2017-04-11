@@ -1,0 +1,26 @@
+# Indonesian translation for tracker-miner-media.
+# Copyright (C) 2017 tracker-miner-media's COPYRIGHT HOLDER
+# This file is distributed under the same license as the tracker-miner-media package.
+# Andika Triwidada <atriwidada@gnome.org>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tracker-miner-media master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-08 19:32+0000\n"
+"PO-Revision-Date: 2017-04-10 18:56+0700\n"
+"Last-Translator: Andika Triwidada <atriwidada@gnome.org>\n"
+"Language-Team: Indonesian <gnome-l10n-id@googlegroups.com>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: ../data/tracker-miner-media.desktop.in.in.h:1
+msgid "Media Files"
+msgstr "Berkas Media"
+
+#: ../data/tracker-miner-media.desktop.in.in.h:2
+msgid "Online data extractor for media files"
+msgstr "Pengekstrak data daring bagi berkas media"
