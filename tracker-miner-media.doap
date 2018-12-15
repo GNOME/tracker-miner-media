@@ -17,8 +17,8 @@
 
   <repository>
     <GitRepository>
-      <location rdf:resource="git://git.gnome.org/tracker-miner-media" />
-      <browse rdf:resource="https://git.gnome.org/browse/tracker-miner-media/" />
+      <location rdf:resource="https://gitlab.gnome.org/GNOME/tracker-miner-media.git" />
+      <browse rdf:resource="https://gitlab.gnome.org/GNOME/tracker-miner-media" />
     </GitRepository>
   </repository>
 
